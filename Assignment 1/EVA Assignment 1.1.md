@@ -1,6 +1,6 @@
 <div style="display:block">
     <div style="width: 100%; display: inline-block">
-        <h5  style="color:maroon; text-align: left; font-size:25px;">EVA Assignment: 1.1</h5>
+        <h1  style="color:maroon; text-align: left; font-size:25px;">EVA Assignment: 1.1</h1>
         <div style="width: 100%; text-align: left; display: inline-block;"><i>Author(s): </i> <strong>Shubhra Prakash</strong> </div>
                <div style="width: 100%; text-align: left; display: inline-block;"><i>Modified: July 13th, 2020</i> </div>
     </div>
